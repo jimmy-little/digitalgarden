@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-reference/slipbox/retrospect/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/10-reference/slipbox/retrospect/"}
 ---
 
 
