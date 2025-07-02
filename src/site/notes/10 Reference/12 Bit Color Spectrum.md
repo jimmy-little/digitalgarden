@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-reference/12-bit-color-spectrum/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/10-reference/12-bit-color-spectrum/"}
 ---
 
 
