@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-reference/12-bit-color-spectrum/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-reference/12-bit-color-spectrum/"}
 ---
 
 
