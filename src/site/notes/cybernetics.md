@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/cybernetics/","noteIcon":""}
----
-
-# Cybernetics
-control systems and computers
