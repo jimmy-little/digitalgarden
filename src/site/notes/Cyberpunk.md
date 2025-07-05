@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/cyberpunk/","noteIcon":""}
 ---
 
-# Cyberpunk
 Cyberpunk is a [[science fiction\|science fiction]] subgenre that blends high-tech with low life. It typically features
 
-- Advanced technology (like [[artificial intelligence\|artificial intelligence]], [[cybernetics\|cybernetics]], [[virtual reality\|virtual reality]])
+- Advanced technology (like [[artificial intelligence\|artificial intelligence]], [[cybernetics\|Cybernetics]], [[virtual reality\|virtual reality]])
 - Dystopian or gritty urban settings (often neon-lit mega-cities with social decay)
 - Anti-hero protagonists (hackers, rebels, outcasts)
 - Themes of corporate control, surveillance, and identity

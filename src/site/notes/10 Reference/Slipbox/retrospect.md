@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-reference/slipbox/retrospect/"}
+{"dg-publish":true,"permalink":"/10-reference/slipbox/retrospect/","noteIcon":""}
 ---
 
 
