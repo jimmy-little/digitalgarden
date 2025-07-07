@@ -3,7 +3,7 @@
 ---
 
 > [!hint] Hello!
-> Im trying this digital gardent thing. It's a place where my linked thinking journey is public. As I make notes and link thoughts in [Obdisian](https://obsidian.md), I publish them here.
+> Im trying this digital garden thing. It's a place where my linked thinking journey is public. As I make notes and link thoughts in [Obdisian](https://obsidian.md), I publish them here.
 > 
 
 It's gonna be messy for a while. There will be [[ghost notes\|ghost notes]]. There will be broken links. That's the whole point. I'm also going to see what posting what would otherwise be a blog post here can do. Most of my traffic comes from direct linking on social media, so I don't foresee the lack of RSS being an issue, but time will tell.
