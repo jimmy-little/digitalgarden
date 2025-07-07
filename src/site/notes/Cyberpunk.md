@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/cyberpunk/"}
 ---
 
-# Cyberpunk
+# # Cyberpunk
+Cyberpunk
 Cyberpunk is a [[science fiction\|science fiction]] subgenre that blends high-tech with low life. It typically features
 
 - Advanced technology (like [[artificial intelligence\|artificial intelligence]], [[Cybernetics\|cybernetics]], [[virtual reality\|virtual reality]])
