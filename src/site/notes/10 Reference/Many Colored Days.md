@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-reference/many-colored-days/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/10-reference/many-colored-days/"}
 ---
 
 
