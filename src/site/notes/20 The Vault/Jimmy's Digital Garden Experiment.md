@@ -12,4 +12,4 @@ Here are some jumping-off points while I get my TOCs and MOCs together:
 
 A sample blog post: [[The Blog/Apple's Trojan Horse, Services Edition\|Apple's Trojan Horse, Services Edition]]
 
-Some Readwise book highlights: [[20 The Vault/Slipbox/Atomic Habits\|Atomic Habits]], [[20 The Vault/Slipbox/Digital Minimalism\|Digital Minimalism]], [[90 Media/Books/Four Thousand Weeks\|Four Thousand Weeks]]
+Some Readwise book highlights: [[90 Media/Books/Atomic Habits\|Atomic Habits]], [[90 Media/Books/Digital Minimalism\|Digital Minimalism]], [[90 Media/Books/Four Thousand Weeks\|Four Thousand Weeks]], [[90 Media/Books/How to Take Smart Notes\|How to Take Smart Notes]]
